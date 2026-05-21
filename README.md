@@ -201,7 +201,8 @@ with industry-oriented training and placement opportunities for students.
 
 ![alt text](map.png)
 
-![alt text](medical.png)
+<img width="1920" height="1020" alt="Otto" src="https://github.com/user-attachments/assets/26740f5a-d3da-4811-a08a-1e0c86132b38" />
+
 
 ![alt text](medical.png)
 
